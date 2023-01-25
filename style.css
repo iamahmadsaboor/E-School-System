@@ -1,0 +1,128 @@
+@import url('https://fonts.googleapis.com/css2?family=Unbounded:wght@200;300&display=swap');
+
+*{
+    margin: 0px;
+    padding: 0px;
+    
+}
+.coolor{
+    background: #F0FFF0;
+    height: 35em;
+    width: 100%;
+}
+.naa a{
+    color:black
+}
+
+.logo{
+    width: 8.75em;
+    height: 2.4em;
+}
+
+.navbtnn{
+    border-radius: 1.7em;
+}
+
+.m-20{
+    margin-top: 4em;
+}
+
+.btnoo{
+    margin-top: 1em;
+    text-align: center;
+    background-color: #21B573;
+    border-radius: 2em;
+    padding: 1em 3em;
+}
+.aoc{
+    display: flex;
+    justify-content: center;
+    margin-top: 5em;
+}
+
+.aaa{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.caaimg{
+    margin-left: 2.8em;
+    width: 86px;
+    height: 66px;
+}
+
+.immgg{
+    height: 234px;
+    width: 331px;
+}
+
+.att{
+    margin-top: 5px;
+    display: inline-block;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.aaaaa{
+    width: 331px;
+    height: 234px;
+}
+
+
+.small{
+    margin-top: 1em;
+}
+
+.smalla{
+    height: 12px;
+    width: 12px;
+   
+}
+.smallp{
+    height: 16px;
+    width: 16px;  
+}
+.con{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.testimg{
+    margin-top: 0.5em;
+    /* display: inline; */
+    height: 120px;
+    width: 120px;
+}
+
+.testp{
+    padding-top: 1.3em;
+    padding-right: 8em;
+
+}
+
+.cointerr{
+    padding-left: 7em;
+    margin-right: 0px;
+}
+
+.mmm{
+    
+        width: 14.333333%;
+    }
+/* Footer */
+
+.footer{
+    margin-top: 4em;
+    padding-top: 4em;
+    color: whitesmoke;
+    background-color: #282531;
+
+}
+.linkk{
+   padding-left: 1em;
+    margin-left: 16em;
+}
+.links li a{
+    text-decoration: none;
+    color: whitesmoke;
+}
